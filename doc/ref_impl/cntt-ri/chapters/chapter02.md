@@ -1,6 +1,6 @@
 [<< Back](../../openstack)
 
-# 2. NFVI Target State & Specification
+# 2. NFVI + VNF Target State & Specification
 <p align="right"><img src="../figures/bogo_ifo.png" alt="scope" title="Scope" width="35%"/></p>
 
 ## Table of Contents

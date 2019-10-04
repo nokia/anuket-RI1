@@ -1,6 +1,6 @@
 [<< Back](../../openstack)
 
-# 6. Test Cases Requirements
+# 6. Lab Operations
 <p align="right"><img src="../figures/bogo_ifo.png" alt="scope" title="Scope" width="35%"/></p>
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 [<< Back](../../openstack)
 
-# 8. Lab Operations
+# 8. Gaps analysis & Innovation
 <p align="right"><img src="../figures/bogo_ifo.png" alt="scope" title="Scope" width="35%"/></p>
 
 ## Table of Contents
