@@ -2,7 +2,7 @@
 Reference Implementation based on RA1 specifications (RI1)
 ==========================================================
 
-Test1
+Test2
 
 This is Reference Implementation (RI1) for the OpenStack based Reference Architecture, RA1.
 
