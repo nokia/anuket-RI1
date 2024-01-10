@@ -25,5 +25,5 @@ jobs:
       with:
         name: ri1-html
         path: |
-            doc/ref_arch/openstack/build
+            doc/ref_impl/cntt-ri/build
       
