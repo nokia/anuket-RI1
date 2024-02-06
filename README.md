@@ -1,8 +1,17 @@
-# Anuket Reference Conformance (RC1) for RA1 based Implementations
+# Anuket Reference Implementation based on RA1 specifications (RI1)
 
-The Reference Conformance (RC1) for RA1 based Implementations is developed as a part of
-[Reference Architecture (RA1) for OpenStack based cloud infrastructure](https://github.com/anuket-project/RA1/)
+This repo contains the source for the
+[Reference Implementation based on RA1 specifications (RI1)](https://cntt.readthedocs.io/projects/ri1/en/stable-orinoco/index.html).
 
+## Issues
+
+Issues for this repo handled in the
+[anuket-project/anuket-specifications](https://github.com/anuket-project/anuket-specifications/issues) repository. 
+
+# Pull Requests
+
+Pull requests are welcome in [this repository](https://github.com/anuket-project/RI1/pulls). For the contribution guide
+please follow [this](https://github.com/anuket-project/anuket-specifications/blob/master/CONTRIBUTING.rst) link.
 
 # Terms of Reference & License
 
