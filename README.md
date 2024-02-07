@@ -1,11 +1,11 @@
 # Anuket Reference Implementation based on RA1 specifications (RI1)
 
 This repo contains the source for the
-[Reference Implementation based on RA1 specifications (RI1)](https://cntt.readthedocs.io/projects/ri1/en/stable-orinoco/index.html).
+[Reference Implementation based on RA1 specifications (RI1)](https://cntt.readthedocs.io/projects/ri1/en/latest/index.html).
 
 ## Issues
 
-Issues for this repo handled in the
+Issues for this repo are handled in the
 [anuket-project/anuket-specifications](https://github.com/anuket-project/anuket-specifications/issues) repository. 
 
 # Pull Requests
