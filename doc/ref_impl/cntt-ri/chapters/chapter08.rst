@@ -148,7 +148,7 @@ The below table summarizes the configurable parameters under PDF. Most of these 
 +------------------------------------------------+
 | type: {production, development}                |
 +------------------------------------------------+
-| link: http://wiki.opnfv.org/                   |
+| link: https://wiki.anuket.io                   |
 +------------------------------------------------+
 | \*\* #node*\*                                  |
 +------------------------------------------------+
@@ -279,7 +279,7 @@ The manifests are divided into three layers: global, type, and site. They are hi
 
 The global and type manifests can be used *as is* unless any major differences from a reference deployment are required. In the latter case, this may introduce a new type, or even contributions to the global manifests.
 
-The site manifests are specific for each site and are required to be customized for each new deployment. The specific documentation for customizing these documents is located here - https://wiki.opnfv.org/display/AIR/Airship+Manifest+Creation+For+New+Sites
+The site manifests are specific for each site and are required to be customized for each new deployment. The specific documentation for customizing these documents is located here - https://wiki.anuket.io/display/HOME/Airship+Manifest+Creation+For+New+Sites
 
 Mainly, the customization is done for the following categories:
 
@@ -345,7 +345,7 @@ After Installation, perform the following:
 Install
 '''''''
 
-As Airship is tooling to declaratively automate site deployment, the automation from the installer side is light. See `deploy.sh <https://github.com/opnfv/airship/blob/master/tools/deploy.sh>`__. User will need to export environment variables that correspond to the new site (keystone URL, node IPs, and so on). All these are captured in the site environment file - as described in the `wiki page <https://wiki.opnfv.org/display/AIR/Airship+Manifest+Creation+For+New+Sites>`__
+As Airship is tooling to declaratively automate site deployment, the automation from the installer side is light. See `deploy.sh <https://github.com/opnfv/airship/blob/master/tools/deploy.sh>`__. User will need to export environment variables that correspond to the new site (keystone URL, node IPs, and so on). All these are captured in the site environment file - as described in the `wiki page <https://wiki.anuket.io/display/HOME/Airship+Manifest+Creation+For+New+Sites>`__
 Once the Genesis node is setup, and the manifests are created, user can execute deploy.sh that supports (Shipyard) actions: deploy_site and update_site. Along with the action, the deploy script also take the site name (ex: intel-pod10). The deploy.sh script is part of the opnfv-airship repository. The steps to run the deploy script are as follows.
 
 .. code:: bash
@@ -413,7 +413,7 @@ Once the software is successfully deployed, and the deploy.sh script terminates 
 In addition to that, users can also use these links to track the metrics and logs, respectively:
 
 Steps and procedures for installing and setting up the RI.
-Start pulling in content from: https://wiki.opnfv.org/display/AIR/Airship+Installer+Deployment+Guide
+Start pulling in content from: https://wiki.anuket.io/display/HOME/Airship+Installer+Deployment+Guide
 
 .. code:: bash
 

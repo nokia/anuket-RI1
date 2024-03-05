@@ -153,7 +153,7 @@ Traffic Generators & NIC
 
 Performance, or load testing, may (will) require specific NICs to achieve desired throughput (TPS, kbps, etc) to properly validate an instance-types (e.g. Basic(B)) stability when subject to traffic.
 
-For example, the OPNFV project, `NFVBench <https://wiki.opnfv.org/display/nfvbench/NFVbench>`__, utilizes the `TRex <https://trex-tgn.cisco.com/>`__ traffic generator. While TRex offers stateful and stateless testing, achieves 200-400 Gb/sec, and captures latency/jitter measurements, there is a dependency on the type of NICs to be utilized to achieve optimal results:
+For example, the now archived Anuket project, `NFVBench <https://wiki.anuket.io/display/HOME/NFVbench>`__, utilizes the `TRex <https://trex-tgn.cisco.com/>`__ traffic generator. While TRex offers stateful and stateless testing, achieves 200-400 Gb/sec, and captures latency/jitter measurements, there is a dependency on the type of NICs to be utilized to achieve optimal results:
 
 -  Recommended NICs to utilize when adopting the NFVBench project (& TRex) include Intel X710 (10G), XXV710 (25G) and XL710 (40G).
 
