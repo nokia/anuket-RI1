@@ -69,7 +69,7 @@ Lab Use Guidelines
 
 OPNFV will facilitate the need for lab procurement, as required, for projects which come into their front door for verification and validation.
 
-Individual companies that donated a lab would be responsible for setup and maintenance of a community lab. Labs, once setup, will be shared and posted in a wiki https://wiki.anuket.io/display/HOME/Community+Labs.
+Individual companies that donated a lab would be responsible for setup and maintenance of a community lab. Labs, once setup, will be shared and posted in a wiki https://wiki.anuket.io/display/HOME/Lab+as+a+Service.
 
 The wiki will contain information such as:
 
